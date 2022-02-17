@@ -3,7 +3,7 @@
 :mortar_board: Currently studying **Computer and Informatics Engineering** <br>
 :white_check_mark: In this repository you can find multiple projects I've developed throughout this degree.
 
-&nbsp; &nbsp; &nbsp; ![Profile views](https://gpvc.arturio.dev/LuisFilipe123) &nbsp; &nbsp; [![Github](https://img.shields.io/github/followers/LuisFilipeCouto?label=Follow&style=social)](https://github.com/LuisFilipeCouto)
+&nbsp; &nbsp; &nbsp; ![Profile views](https://gpvc.arturio.dev/LuisFilipeCouto) &nbsp; &nbsp; [![Github](https://img.shields.io/github/followers/LuisFilipeCouto?label=Follow&style=social)](https://github.com/LuisFilipeCouto)
 <br>
 <br>
 

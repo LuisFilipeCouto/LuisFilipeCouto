@@ -1,7 +1,7 @@
 
 ## Hi There 👋 
 :mortar_board: Currently studying **Computer and Informatics Engineering** <br>
-:white_check_mark: In this repository you can find multiple projects developed throughout this degree.
+:white_check_mark: Here you can find multiple projects developed throughout my degree.
 
 &nbsp; &nbsp; &nbsp; ![Profile views](https://gpvc.arturio.dev/LuisFilipeCouto) &nbsp; &nbsp; [![Github](https://img.shields.io/github/followers/LuisFilipeCouto?label=Follow&style=social)](https://github.com/LuisFilipeCouto)
 <br>

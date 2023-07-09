@@ -4,7 +4,7 @@
 
 
 ## :open_file_folder: Projects 
-**Here you have lists with references to the projects I developed throughout my academic studies** <br>
+**Here you have listings with references to the projects I developed throughout my academic studies** <br>
 <details>
   <summary> Licenciatura Projects </summary>
     <br>
@@ -17,7 +17,7 @@
       </tr>
       <tr>
         <td>Artificial Intelligence</td>
-        <td>Rush Hour</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_IA">Rush Hour</a> </td>
         <td>Autonomous agent for the game Rush Hour</td>
       </tr>
       <tr>
@@ -26,18 +26,18 @@
         <td>Development of a programming language and corresponding compiler for the interaction and graphic visualization of automatons</td>
       </tr>
        <tr>
-        <td>Communications Networks</td>
-        <td>Network Simulation</td>
-        <td>Communication network and a TCP Client-Server application</td>
+        <td>Communications Networks I</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_FR">Network Simulation</a> </td>
+        <td>Implementation of a business communication network and a TCP Client-Server application</td>
       </tr>
       <tr>
         <td>Databases</td>
-        <td>Digital Sales Platform</td>
-        <td>Windows desktop application with an integrated database</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_BD">Digital Sales Platform</a> </td>
+        <td>Windows desktop application, with an integrated database, that simulates a digital sales platform</td>
       </tr>
       <tr>
         <td>Digital Systems Laboratory</td>
-        <td>Coffee Machine</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_LSD">Coffee Vending Machine</a> </td>
         <td>Coffee vending machine implementation designed for FPGAs (DE2-115 kit) </td>
       </tr>
       <tr>
@@ -48,11 +48,11 @@
        <tr>
         <td>Human-computer Interaction</td>
         <td>Car Sale Platform</td>
-        <td>Design, prototype and implementation of a web application using a human-centered approach</td>
+        <td> Development of a web application following a human-centered approach</td>
       </tr>
        <tr>
         <td>Informatics Laboratory</td>
-        <td>Connection Test</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_LABI">Connection Test</a> </td>
         <td>TCP client that connects to Speedtest Servers and outputs connection data </td>
       </tr>
        <tr>
@@ -82,13 +82,13 @@
       </tr>
       <tr>
         <td>Probability Methods for Informatics Engineering</td>
-        <td>Text Analysis</td>
-        <td>Application to detect similarities between txt files</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_MPEI">Text Analysis</a> </td>
+        <td>Application to analyse and detect similarities between txt files using probabilistic methods </td>
       </tr>
       <tr>
         <td>System Analisys</td>
-        <td>Online Marketplace</td>
-        <td>Analysis, modeling, design and implementation of a web application, following the Unified Process method </td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_AS">Online Marketplace</a> </td>
+        <td>Development of a web application following the Unified Process method </td>
       </tr>
     </table>
 </details>

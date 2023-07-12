@@ -22,8 +22,8 @@
       </tr>
       <tr>
         <td>Compilers</td>
-        <td>ADV</td>
-        <td>Development of a programming language and corresponding compiler for the interaction and graphic visualization of automatons</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_C">ADV</a> </td>
+        <td>Development of a programming language and corresponding compiler for the description and graphic visualization of automata </td>
       </tr>
        <tr>
         <td>Communications Networks I</td>

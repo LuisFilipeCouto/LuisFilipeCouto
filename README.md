@@ -1,5 +1,5 @@
 ## 👋 Welcome to my GitHub
-:white_check_mark: Licenciado in Computer and Informatics Engineering <br>
+:white_check_mark: Graduate in Computer and Informatics Engineering <br>
 :mortar_board: Currently taking a masters degree in Computer Engineering <br>
 
 
@@ -40,14 +40,9 @@
         <td> <a href="https://github.com/LuisFilipeCouto/Project_LSD">Coffee Vending Machine</a> </td>
         <td>Coffee vending machine implementation designed for FPGAs (DE2-115 kit) </td>
       </tr>
-      <tr>
-        <td>Human-computer Interaction</td>
-        <td>Zoom</td>
-        <td>Heuristic Evaluation of the Zoom Application</td>
-      </tr>
        <tr>
         <td>Human-computer Interaction</td>
-        <td>Car Sale Platform</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_IHC">Car Sale Platform</a> </td>
         <td> Development of a web application following a human-centered approach</td>
       </tr>
        <tr>
@@ -77,7 +72,7 @@
       </tr>
       <tr>
         <td>Operating Systems</td>
-        <td>File System</td>
+        <td><a href="https://github.com/LuisFilipeCouto/Project_SO">File System </a> </td>
         <td>Simple file system based on the ext2 file system </td>
       </tr>
       <tr>

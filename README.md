@@ -97,6 +97,12 @@
         <th>Project</th>
         <th>Brief Description</th>
       </tr>
+      <tr>
+        <th>Communication Architectures</th>
+        <th>CDN network</th>
+        <th>Technical design, configuration and testing of a CDN network with multiple enterprise clients <br> 
+        </th>
+      </tr>
        <tr>
         <th>Distributed Systems</th>
         <th>Heist To The Museum I</th>
@@ -122,6 +128,30 @@
         <th>Mobile Communications</th>
         <th>Simu5G</th>
         <th>Study and use of the Simu5G simulator to analyse the performance of several 5G aspects, with a focus on MEC and Device-to-Device scenarios
+        </th>
+      </tr>
+      <tr>
+        <th>Modelling and Performance of Networks and Services</th>
+        <th>Network Analysis</th>
+        <th>Performance evaluation on point-to-point links supporting packet services
+        </th>
+      </tr>
+      <tr>
+        <th>Modelling and Performance of Networks and Services</th>
+        <th>Network Modelling</th>
+        <th>Traffic engineering of telecommunication networks
+        </th>
+      </tr>
+      <tr>
+        <th>Visual Computing</th>
+        <th>IEEE Article</th>
+        <th>4-page technical report, in IEEE article format, about the Evolution and Recent Development of GPUs
+        </th>
+      </tr>
+      <tr>
+        <th>Visual Computing</th>
+        <th>3D Game</th>
+        <th>3D first-person perspective game with exploration and puzzle-solving aspects
         </th>
       </tr>
     </table>

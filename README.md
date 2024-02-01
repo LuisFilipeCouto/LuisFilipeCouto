@@ -25,11 +25,6 @@
         <td> <a href="https://github.com/LuisFilipeCouto/Project_C">ADV</a> </td>
         <td>Development of a programming language and corresponding compiler for the description and graphic visualization of automata </td>
       </tr>
-       <tr>
-        <td>Communications Networks I</td>
-        <td> <a href="https://github.com/LuisFilipeCouto/Project_FR">Network Simulation</a> </td>
-        <td>Implementation of a business communication network and a TCP Client-Server application</td>
-      </tr>
       <tr>
         <td>Databases</td>
         <td> <a href="https://github.com/LuisFilipeCouto/Project_BD">Digital Sales Platform</a> </td>
@@ -41,7 +36,7 @@
         <td>Coffee vending machine implementation designed for FPGAs (DE2-115 kit) </td>
       </tr>
        <tr>
-        <td>Human-computer Interaction</td>
+        <td>Human-Computer Interaction</td>
         <td> <a href="https://github.com/LuisFilipeCouto/Project_IHC">Car Sale Platform</a> </td>
         <td> Development of a web application following a human-centered approach</td>
       </tr>
@@ -52,7 +47,7 @@
       </tr>
        <tr>
         <td>Information and Organisational Security</td>
-        <td>Vulnerabilities</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_SIO_1">Vulnerabilities </a> </td>
         <td> Implementation of two versions of a web application:
           <ol>
             <li>Vulnerable version that contains specific CWE </li>
@@ -62,13 +57,18 @@
       </tr>
       <tr>
         <td>Information and Organisational Security</td>
-        <td>Authentication</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_SIO_2">Authentication </a> </td>
         <td>Web application that supports authentication through another application, using a challenge-response authentication protocol</td>
       </tr>
       <tr>
         <td>Information and Organisational Security</td>
-        <td>Forensics</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_SIO_3">Forensics </a> </td>
         <td>Forensics report with a detailed analysis and conclusions taken from data of a hacked VM</td>
+      </tr>
+      <tr>
+        <td>Networks Fundamentals</td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_FR">Network Simulation</a> </td>
+        <td>Implementation of a business communication network and a TCP Client-Server application</td>
       </tr>
       <tr>
         <td>Operating Systems</td>

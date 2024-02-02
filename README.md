@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub
-:white_check_mark: Graduate in Computer and Informatics Engineering <br>
-:mortar_board: Currently taking a masters degree in Computer Engineering <br>
+:white_check_mark: Graduate in Computer and Informatics Engineering from the University of Aveiro <br>
+:mortar_board: Currently taking a masters degree in Computer Engineering from the University of Aveiro <br>
 
 
 ## :open_file_folder: Projects 

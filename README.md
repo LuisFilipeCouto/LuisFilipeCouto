@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub
 :white_check_mark: Graduate in Computer and Informatics Engineering from the University of Aveiro <br>
-:mortar_board: Currently taking a masters degree in Computer Engineering from the University of Aveiro <br>
+:mortar_board: Currently taking a masters degree in Computer and Telematics Engineering from the University of Aveiro <br>
 
 
 ## :open_file_folder: Projects 
@@ -37,7 +37,7 @@
       </tr>
        <tr>
         <td>Human-Computer Interaction</td>
-        <td> <a href="https://github.com/LuisFilipeCouto/Project_IHC">Car Sale Platform</a> </td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_IHC">Car Sales Platform</a> </td>
         <td> Development of a web application following a human-centered approach</td>
       </tr>
        <tr>
@@ -48,10 +48,10 @@
        <tr>
         <td>Information and Organisational Security</td>
         <td> <a href="https://github.com/LuisFilipeCouto/Project_SIO_1">Vulnerabilities </a> </td>
-        <td> Implementation of two versions of a web application:
+        <td> Two distinct implementations of a web application:
           <ol>
             <li>Vulnerable version that contains specific CWE </li>
-            <li>Secure version that fixes those CWE</li>
+            <li>Secure version that removes those CWE</li>
             </ol>
         </td>
       </tr>
@@ -67,7 +67,7 @@
       </tr>
       <tr>
         <td>Networks Fundamentals</td>
-        <td> <a href="https://github.com/LuisFilipeCouto/Project_FR">Network Simulation</a> </td>
+        <td> <a href="https://github.com/LuisFilipeCouto/Project_FR">Business Network</a> </td>
         <td>Implementation of a business communication network and a TCP Client-Server application</td>
       </tr>
       <tr>
@@ -78,7 +78,7 @@
       <tr>
         <td>Probability Methods for Informatics Engineering</td>
         <td> <a href="https://github.com/LuisFilipeCouto/Project_MPEI">Text Analysis</a> </td>
-        <td>Application to analyse and detect similarities between txt files using probabilistic methods </td>
+        <td>Application to analyse and detect similarities between text files using probabilistic methods </td>
       </tr>
       <tr>
         <td>System Analisys</td>

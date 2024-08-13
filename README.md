@@ -83,7 +83,7 @@
       <tr>
         <td>System Analisys</td>
         <td> <a href="https://github.com/LuisFilipeCouto/Project_AS">Online Marketplace</a> </td>
-        <td>Development of a web application following the Unified Process method </td>
+        <td>Development of a web application following the Unified Process approach </td>
       </tr>
     </table>
 </details>
@@ -99,8 +99,8 @@
       </tr>
       <tr>
         <th>Communication Architectures</th>
-        <th>CDN network</th>
-        <th>Technical design, configuration and testing of a CDN network with multiple enterprise clients <br> 
+        <th>CDN</th>
+        <th>Technical design, configuration and testing of a CDN with multiple enterprise clients <br> 
         </th>
       </tr>
        <tr>
@@ -117,11 +117,17 @@
           Uses a client-server model of type 2 (server replication) with communication based on message passing over sockets under the TCP protocol
         </th>
       </tr>
-       <tr>
+      <tr>
         <th>Distributed Systems</th>
         <th>Heist To The Museum III</th>
         <th>Distributed implementation of the problem <br>
           Uses a client-server model of type 2 (server replication) with communication based on method invocation on remote objects using Java RMI
+        </th>
+      </tr>
+      <tr>
+        <th>Embedded Systems Architectures</th>
+        <th> Environment Monitoring Station</th>
+        <th> Embedded system that monitors environment data, allowing wi-fi access, OTA and energy consumption management 
         </th>
       </tr>
       <tr>
@@ -143,9 +149,21 @@
         </th>
       </tr>
       <tr>
-        <th>Visual Computing</th>
-        <th>IEEE Article</th>
-        <th>4-page technical report, in IEEE article format, about the Evolution and Recent Development of GPUs
+        <th>Security in Communication Networks</th>
+        <th>Network Security</th>
+        <th>Technical design, configuration and testing of a network with redundant load-balancers, firewalls and a monitor system
+        </th>
+      </tr>
+      <tr>
+        <th>Security in Communication Networks</th>
+        <th>Network Monitoring</th>
+        <th>Definition and implementation of SIEM rules, used in a script that performs data analysis and detects anomalies
+        </th>
+      </tr>
+      <tr>
+        <th>Seminar</th>
+        <th>GPU Article</th>
+        <th>6-page article, in IEEE Access magazine format, about the Evolution and Recent Development of GPUs
         </th>
       </tr>
       <tr>
